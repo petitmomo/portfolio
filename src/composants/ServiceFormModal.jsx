@@ -2,7 +2,7 @@
 import React, { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { X } from "lucide-react";
-import emailjs from "emailjs-com";
+
 
 const ServiceFormModal = ({ isOpen, onClose }) => {
   const [formData, setFormData] = useState({
