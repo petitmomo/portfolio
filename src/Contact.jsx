@@ -6,13 +6,13 @@ const ContactSection = () => {
     return (
         <section
             id="contact"
-            className="relative bg-[#1E2A5E] text-white py-16 px-6 md:px-20 overflow-hidden"
+            className="relative bg-[#1E2A5E] text-white py-10 px-6 md:px-20 overflow-hidden"
         >
             {/* ✅ Image de fond (optionnelle) */}
             <div
                 className="absolute inset-0 bg-cover bg-center opacity-10"
                 style={{
-                    backgroundImage: `url('contact.jpg')`, // 🔁 Mets ton image ici
+                    backgroundImage: `url('contact.jpg')`, 
                 }}
             ></div>
 

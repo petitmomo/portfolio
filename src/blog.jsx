@@ -37,7 +37,7 @@ const BlogSection = () => {
           className="mb-12 text-center"
         >
           <h2 className="text-3xl font-bold mb-3 text-left">Derniers Articles</h2>
-          <p className="text-white max-w-2xl  text-left">
+          <p className="text-gray-300 max-w-2xl  text-left">
             Explorez mes derniers articles sur la cybersécurité, le développement web et les bonnes pratiques pour renforcer vos projets numériques.
           </p>
         </motion.div>

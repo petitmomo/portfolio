@@ -55,7 +55,7 @@ const projets = [
 
 const Realisation = () => {
   return (
-    <section className="bg-[#1F306B] md:px-24 py-30"
+    <section className="py-20 bg-[#1F306B] px-4 md:px-20 py-30"
     id="realisations">
       <div className="max-w-6xl mx-auto text-white">
         {/* Titre et description */}
@@ -66,7 +66,7 @@ const Realisation = () => {
           className="mb-10"
         >
           <h2 className="text-3xl font-bold mb-3">Dernières Réalisations</h2>
-          <p className="text-gray-300 leading-relaxed max-w-3xl">
+          <p className="text-gray-300 leading-relaxed max-w-2xl">
             J’ai développé des applications web, mobiles et des chatbots
             conversationnels. Parmi mes réalisations, on retrouve également des
             projets personnels comme

@@ -81,7 +81,7 @@ export default function Services() {
           Mes Services
         </h1>
 
-        <p className="text-white mb-12 max-w-2xl text-left">
+        <p className="text-gray-300 mb-12 max-w-2xl text-left">
           J’offre un ensemble de services couvrant le développement, la sécurité et
           l’intelligence artificielle pour accompagner les entreprises dans leur
           transformation digitale.

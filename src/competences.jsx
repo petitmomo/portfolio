@@ -59,7 +59,7 @@ export default function Competences() {
           Mes Compétences
         </h1>
 
-        <p className="text-white mb-10 max-w-2xl text-left">
+        <p className="text-gray-300 mb-10 max-w-2xl text-left">
           J’ai développé un ensemble de compétences dans les domaines du développement web et mobile,
           de l’intelligence artificielle et de la cybersécurité, me permettant de créer des solutions
           performantes et sécurisées.

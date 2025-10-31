@@ -60,7 +60,7 @@ const ServiceFormModal = ({ isOpen, onClose }) => {
     setLoading(true);
 
     try {
-      const response = await fetch("http://localhost/backendPortfolio/sendMail.php", {
+      const response = await fetch("https://sendmail-njcak8m20-momooba07-6674s-projects.vercel.app/api/sendMail", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(formData),
